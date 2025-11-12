@@ -1,0 +1,4 @@
+uvicorn
+fastapi
+g2p_id
+tts
